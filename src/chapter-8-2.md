@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness in Construction: Evaluating Individual and Organizational Performance
-===========================================================================================================================================
+# Evaluating Individual and Organizational Performance
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, it is also important to measure and evaluate the effectiveness of conflict resolution strategies to ensure continuous improvement. This chapter provides an overview of techniques for evaluating individual and organizational performance in conflict resolution in construction.
 

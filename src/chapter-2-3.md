@@ -1,5 +1,4 @@
-Chapter 2: Overview of Conflict in Construction: Techniques for Overcoming Common Construction Conflict Challenges
-==================================================================================================================
+# Techniques for Overcoming Common Construction Conflict Challenges
 
 Conflict is a common occurrence in construction projects and can arise from various sources such as schedule delays, budget constraints, design changes, or differing stakeholder interests. This chapter provides an overview of conflict in construction projects and techniques for overcoming common construction conflict challenges.
 

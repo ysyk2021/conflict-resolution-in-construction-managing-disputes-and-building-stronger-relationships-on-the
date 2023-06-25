@@ -1,5 +1,4 @@
-Chapter 7: Safety and Conflict Resolution: Maintaining Safe Working Conditions
-==============================================================================
+# Maintaining Safe Working Conditions
 
 Maintaining safe working conditions is essential for construction projects, but conflicts can sometimes arise between safety protocols and project timelines or budgets. This chapter will explore how conflicts related to safety can be effectively managed through conflict resolution techniques.
 

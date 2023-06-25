@@ -1,5 +1,4 @@
-Chapter 7: Safety and Conflict Resolution: Mitigating Risks Associated with Conflict
-====================================================================================
+# Mitigating Risks Associated with Conflict
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, conflicts can sometimes become heated and escalate, posing a risk to the safety of all involved. This chapter provides an overview of techniques for mitigating risks associated with conflict in construction.
 

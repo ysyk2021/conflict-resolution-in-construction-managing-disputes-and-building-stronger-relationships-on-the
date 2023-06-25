@@ -1,5 +1,4 @@
-Chapter 9: Conclusion: Final Recommendations for Effective Conflict Resolution in Construction
-==============================================================================================
+# Final Recommendations for Effective Conflict Resolution in Construction
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. This book has provided insights into the importance of conflict resolution, common sources of conflict in construction, strategies for effective conflict resolution, and the role of communication and collaboration in conflict resolution. In this final chapter, we provide some recommendations for effective conflict resolution in construction.
 

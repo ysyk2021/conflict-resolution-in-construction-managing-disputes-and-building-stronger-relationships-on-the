@@ -1,5 +1,4 @@
-Chapter 2: Overview of Conflict in Construction: The Benefits and Challenges of Conflict Resolution
-===================================================================================================
+# The Benefits and Challenges of Conflict Resolution
 
 Conflict is a common occurrence in construction projects and can arise from various sources such as schedule delays, budget constraints, design changes, or differing stakeholder interests. This chapter provides an overview of the benefits and challenges of conflict resolution in construction projects.
 

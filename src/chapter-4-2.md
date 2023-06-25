@@ -1,5 +1,4 @@
-Chapter 4: Managing Conflict during Construction Projects: Identifying the Source of Conflict
-=============================================================================================
+# Identifying the Source of Conflict
 
 Conflict is an inevitable part of construction projects, but it can be managed effectively if the sources of conflict are identified and addressed early on. This chapter will explore the various sources of conflict in construction projects and provide strategies for managing them.
 

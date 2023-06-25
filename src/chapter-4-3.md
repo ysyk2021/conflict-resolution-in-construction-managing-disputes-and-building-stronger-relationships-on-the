@@ -1,5 +1,4 @@
-Chapter 4: Managing Conflict during Construction Projects: Engaging in Collaborative Problem-Solving
-====================================================================================================
+# Engaging in Collaborative Problem-Solving
 
 Collaborative problem-solving is an effective technique for managing conflict during construction projects. By bringing all parties together to identify solutions to conflicts, project stakeholders can work together to build stronger relationships and ensure successful project outcomes. This chapter will explore the benefits of collaborative problem-solving and provide strategies for implementing this approach.
 

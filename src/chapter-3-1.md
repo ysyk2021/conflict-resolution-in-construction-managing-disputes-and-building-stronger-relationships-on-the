@@ -1,5 +1,4 @@
-Chapter 3: Building a Culture of Positive Communication: Techniques for Building Positive Communication on Construction Sites
-=============================================================================================================================
+# Techniques for Building Positive Communication on Construction Sites
 
 Effective communication is essential for managing conflicts and building stronger relationships on the job site. This chapter will explore techniques for building positive communication on construction sites, including establishing clear communication channels, promoting teamwork, and creating a culture of trust.
 

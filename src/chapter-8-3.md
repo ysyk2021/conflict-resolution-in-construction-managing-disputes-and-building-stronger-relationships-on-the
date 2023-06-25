@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness in Construction: Continuous Improvement in Conflict Resolution
-====================================================================================================================================
+# Continuous Improvement in Conflict Resolution
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, it is also important to measure and evaluate the effectiveness of conflict resolution strategies to ensure continuous improvement. This chapter provides an overview of measuring and evaluating conflict resolution effectiveness in construction.
 

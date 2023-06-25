@@ -1,5 +1,4 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness in Construction: Metrics for Measuring Conflict Resolution Effectiveness in Construction
-==============================================================================================================================================================
+# Metrics for Measuring Conflict Resolution Effectiveness in Construction
 
 Measuring and evaluating the effectiveness of conflict resolution strategies is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. This chapter provides an overview of metrics for measuring conflict resolution effectiveness in construction.
 

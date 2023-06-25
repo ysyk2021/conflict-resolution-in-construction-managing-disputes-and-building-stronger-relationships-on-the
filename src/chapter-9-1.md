@@ -1,5 +1,4 @@
-Chapter 9: Conclusion: Recap of Key Points and Strategies
-=========================================================
+# Recap of Key Points and Strategies
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. This book has provided insights into the importance of conflict resolution, common sources of conflict in construction, strategies for effective conflict resolution, and the role of communication and collaboration in conflict resolution.
 

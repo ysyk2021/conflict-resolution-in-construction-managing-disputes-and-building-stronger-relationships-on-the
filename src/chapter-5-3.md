@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Effective Dispute Resolution: Adjudication and Arbitration
-====================================================================================
+# Adjudication and Arbitration
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. In addition to mediation and negotiation, adjudication and arbitration are two strategies that can be used for effective dispute resolution. This chapter provides an overview of adjudication and arbitration as strategies for effective dispute resolution in construction projects.
 

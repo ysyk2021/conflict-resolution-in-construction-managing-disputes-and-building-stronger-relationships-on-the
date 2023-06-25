@@ -1,5 +1,4 @@
-Chapter 3: Building a Culture of Positive Communication: Encouraging Open Dialogue and Feedback
-===============================================================================================
+# Encouraging Open Dialogue and Feedback
 
 Effective communication is essential for managing conflicts and building stronger relationships on the job site. This chapter will explore how to build a culture of positive communication in construction projects by encouraging open dialogue and feedback.
 

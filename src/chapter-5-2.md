@@ -1,5 +1,4 @@
-Chapter 5: Strategies for Effective Dispute Resolution: Negotiation and Mediation
-=================================================================================
+# Negotiation and Mediation
 
 Effective dispute resolution is critical for managing conflicts and building stronger relationships among project stakeholders in construction projects. Negotiation and mediation are two commonly used strategies for resolving disputes in construction. This chapter provides an overview of negotiation and mediation as dispute resolution strategies in construction.
 

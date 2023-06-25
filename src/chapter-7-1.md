@@ -1,5 +1,4 @@
-Chapter 7: Safety and Conflict Resolution: Techniques for Ensuring Safety During Conflict Resolution
-====================================================================================================
+# Techniques for Ensuring Safety During Conflict Resolution
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, conflicts can sometimes become heated and escalate, posing a risk to the safety of all involved. This chapter provides an overview of techniques for ensuring safety during conflict resolution in construction.
 

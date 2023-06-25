@@ -1,5 +1,4 @@
-Chapter 6: Addressing Systemic Issues in Construction: Identifying and Addressing Bias and Discrimination
-=========================================================================================================
+# Identifying and Addressing Bias and Discrimination
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, there may be systemic issues within the construction industry that contribute to conflicts and hinder effective communication and collaboration. One such issue is bias and discrimination. This chapter provides an overview of identifying and addressing bias and discrimination as a strategy for addressing systemic workplace issues in construction.
 

@@ -1,5 +1,4 @@
-Chapter 6: Addressing Systemic Issues in Construction: Techniques for Addressing Systemic Workplace Issues in Construction
-==========================================================================================================================
+# Techniques for Addressing Systemic Workplace Issues in Construction
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, there may be systemic issues within the construction industry that contribute to conflicts and hinder effective communication and collaboration. This chapter provides an overview of techniques for addressing systemic workplace issues in construction.
 
