@@ -6,5 +6,4 @@ This book provides practical strategies and techniques for managing conflicts an
 
 Whether you're a construction manager, contractor, or team member, "Conflict Resolution in Construction" is an essential resource for anyone looking to improve their conflict resolution skills and build stronger relationships on the job site. By providing insights and advice for managing disputes and building effective teams, this book empowers construction professionals to drive success and achieve their goals.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
