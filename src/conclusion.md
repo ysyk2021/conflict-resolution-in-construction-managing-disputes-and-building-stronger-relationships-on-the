@@ -1,5 +1,4 @@
 
-
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. This book has provided insights into the importance of conflict resolution, common sources of conflict in construction, strategies for effective conflict resolution, the role of communication and collaboration in conflict resolution, addressing systemic workplace issues, ensuring safety during conflict resolution, and measuring and evaluating conflict resolution effectiveness. In this final chapter, we recap key points and strategies, provide final recommendations for effective conflict resolution in construction, and discuss future directions for research and practice.
 
 Recap of Key Points and Strategies

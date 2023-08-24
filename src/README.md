@@ -1,5 +1,4 @@
 
-
 Conflict is an inevitable part of the construction industry, and managing disputes effectively is essential to keeping projects on track and building strong relationships among team members. "Conflict Resolution in Construction: Managing Disputes and Building Stronger Relationships on the Job Site" is a guidebook for construction professionals who want to improve their conflict resolution skills and build stronger teams.
 
 This book provides practical strategies and techniques for managing conflicts and building stronger relationships in the high-stress environment of the construction site. Through this book, readers will learn how to identify the root causes of conflict, communicate effectively with team members, and negotiate solutions that satisfy all parties involved.
