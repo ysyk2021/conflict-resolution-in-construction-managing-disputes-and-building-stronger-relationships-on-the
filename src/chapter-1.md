@@ -1,5 +1,3 @@
-Chapter 1: Introduction
-=======================
 
 Construction projects are complex and involve multiple stakeholders, each with their objectives, priorities, and interests. Conflicts can arise when these objectives clash, leading to misunderstandings, delays, and ultimately project failure. Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders. This chapter provides an introduction to the importance of conflict resolution in construction projects, defining conflict resolution in construction, and why understanding conflict resolution is critical for effective communication and collaboration on the job site.
 

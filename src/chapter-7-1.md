@@ -1,4 +1,3 @@
-# Techniques for Ensuring Safety During Conflict Resolution
 
 In this chapter, we will explore techniques for ensuring safety during conflict resolution in the construction industry. Conflict is an inevitable part of any construction project, and it is important to address conflicts in a safe and respectful manner. By implementing appropriate safety measures, construction professionals can effectively manage conflicts while prioritizing the well-being of all individuals involved.
 

@@ -1,4 +1,3 @@
-# Future Directions for Research and Practice
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. This book has provided insights into the importance of conflict resolution, common sources of conflict in construction, strategies for effective conflict resolution, and the role of communication and collaboration in conflict resolution. In this final chapter, we discuss future directions for research and practice in conflict resolution in construction.
 
@@ -32,5 +31,4 @@ Conclusion
 ----------
 
 Conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. By conducting further research into effective conflict resolution strategies and taking practical steps to improve conflict resolution practices, construction companies can achieve successful outcomes, build stronger relationships among project stakeholders, and create a culture of mutual respect and trust.
-
 

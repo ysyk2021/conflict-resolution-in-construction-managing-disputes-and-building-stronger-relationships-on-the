@@ -1,5 +1,3 @@
-Chapter 5: Strategies for Effective Dispute Resolution
-======================================================
 
 Disputes are an inevitable part of construction projects, but they can be managed effectively through various dispute resolution techniques. This chapter will explore different strategies for resolving construction disputes, including negotiation and mediation, adjudication, and arbitration.
 

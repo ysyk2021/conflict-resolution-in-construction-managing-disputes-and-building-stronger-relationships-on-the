@@ -1,4 +1,3 @@
-# Evaluating Individual and Organizational Performance
 
 This chapter focuses on the methods and practices used to evaluate performance in the context of conflict resolution in construction. By effectively evaluating performance, construction professionals can identify areas of strength, address weaknesses, and enhance overall project outcomes.
 

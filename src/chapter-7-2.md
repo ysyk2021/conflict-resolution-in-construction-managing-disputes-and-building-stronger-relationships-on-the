@@ -1,4 +1,3 @@
-# Mitigating Risks Associated with Conflict
 
 Conflict is an inherent part of the construction industry, and if not managed properly, it can lead to significant risks and negative impacts on projects. In this chapter, we will explore techniques and strategies for mitigating risks associated with conflict in construction projects. By proactively addressing conflicts and implementing appropriate risk management measures, construction professionals can minimize the adverse effects on project timelines, budgets, and relationships.
 

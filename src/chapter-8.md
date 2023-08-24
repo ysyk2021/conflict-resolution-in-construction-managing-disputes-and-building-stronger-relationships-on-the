@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Conflict Resolution Effectiveness in Construction
-=====================================================================================
 
 Effective conflict resolution is essential for ensuring successful construction projects. However, it is not enough to simply resolve conflicts as they arise; it is equally important to measure and evaluate the effectiveness of conflict resolution efforts. This chapter will explore the metrics used for measuring conflict resolution effectiveness in construction, evaluating individual and organizational performance, and how continuous improvement can be achieved.
 

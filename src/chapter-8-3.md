@@ -1,4 +1,3 @@
-# Continuous Improvement in Conflict Resolution
 
 As conflicts are inevitable in the construction industry, it is crucial for professionals to continuously improve their conflict resolution practices. By embracing a mindset of continuous improvement, construction professionals can enhance their abilities to manage disputes and build stronger relationships on the job site. This chapter explores strategies for achieving ongoing improvement in conflict resolution.
 

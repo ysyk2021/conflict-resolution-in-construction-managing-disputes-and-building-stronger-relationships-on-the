@@ -1,4 +1,3 @@
-# Techniques for Resolving Construction Disputes
 
 Effective dispute resolution is critical for managing conflicts and building stronger relationships among project stakeholders in construction projects. There are several techniques for resolving disputes in construction, including negotiation, mediation, arbitration, and litigation. This chapter provides an overview of these techniques and their use in construction.
 

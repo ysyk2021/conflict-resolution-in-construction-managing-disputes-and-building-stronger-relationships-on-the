@@ -1,4 +1,3 @@
-# Metrics for Measuring Conflict Resolution Effectiveness in Construction
 
 This chapter focuses on the metrics and indicators that can be used to measure the effectiveness of conflict resolution in the construction context. By employing appropriate metrics, construction professionals can assess the impact of conflict resolution strategies and continuously improve their conflict management practices.
 

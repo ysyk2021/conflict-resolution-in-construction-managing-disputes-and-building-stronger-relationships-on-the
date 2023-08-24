@@ -1,4 +1,3 @@
-# Techniques for Managing Conflict during Construction Projects
 
 Managing conflict during construction projects is essential for ensuring successful project outcomes. This chapter will explore various techniques that can be used to manage conflict in construction projects.
 

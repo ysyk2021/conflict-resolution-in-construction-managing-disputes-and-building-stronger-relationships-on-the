@@ -1,5 +1,3 @@
-Chapter 7: Safety and Conflict Resolution
-=========================================
 
 Effective conflict resolution is critical for managing disputes and building stronger relationships among project stakeholders in construction projects. However, conflicts can sometimes become heated and escalate, posing a risk to the safety of all involved. This chapter provides an overview of techniques for ensuring safety during conflict resolution, mitigating risks associated with conflict, and maintaining safe working conditions on construction sites.
 
@@ -31,5 +29,4 @@ Conclusion
 ----------
 
 Ensuring safety during conflict resolution, mitigating risks associated with conflict, and maintaining safe working conditions on construction sites are critical for promoting effective communication and collaboration, reducing conflicts, and improving project outcomes. By conducting a risk assessment before beginning a project, establishing clear procedures for addressing conflicts, providing ongoing training on conflict resolution and safety, having a designated safety officer or team, encouraging respectful communication and behavior, establishing consequences for violent or threatening behavior, implementing safety protocols and procedures, providing personal protective equipment, and regularly inspecting equipment and materials for potential hazards, construction companies can ensure the safety of all stakeholders and create a more positive work environment that promotes effective communication and collaboration, reduces conflicts, and improves project outcomes.
-
 

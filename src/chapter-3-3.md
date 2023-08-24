@@ -1,4 +1,3 @@
-# Encouraging Open Dialogue and Feedback
 
 In this chapter, we will discuss the importance of encouraging open dialogue and feedback in construction projects for effective conflict resolution and building stronger relationships on the job site. Creating an environment where team members feel comfortable expressing their opinions and providing feedback fosters collaboration, improves communication, and helps prevent conflicts from escalating. By promoting open dialogue and feedback, construction professionals can create a culture of continuous improvement and enhance project outcomes.
 

@@ -1,4 +1,3 @@
-# Cultivating a Diverse and Inclusive Workforce
 
 Systemic issues such as discrimination, harassment, and bias can contribute to conflicts and tensions on construction sites. Addressing these issues requires a comprehensive approach that includes cultivating a diverse and inclusive workforce through recruitment, training, and retention strategies. This chapter provides an overview of techniques for addressing systemic issues in construction through the cultivation of a diverse and inclusive workforce.
 

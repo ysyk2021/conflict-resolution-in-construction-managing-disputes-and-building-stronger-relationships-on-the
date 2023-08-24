@@ -1,5 +1,3 @@
-Chapter 3: Building a Culture of Positive Communication
-=======================================================
 
 Effective communication is essential for managing conflicts and building stronger relationships on the job site. This chapter will explore techniques for building positive communication on construction sites, fostering trust and respect, and encouraging open dialogue and feedback.
 

@@ -1,4 +1,3 @@
-# Identifying and Addressing Bias and Discrimination
 
 In this chapter, we will focus on identifying and addressing bias and discrimination in the construction industry. Bias and discrimination can have a significant impact on work relationships, project outcomes, and the overall well-being of construction professionals. By actively working to identify and address these issues, construction professionals can create a more inclusive and respectful work environment for everyone involved.
 

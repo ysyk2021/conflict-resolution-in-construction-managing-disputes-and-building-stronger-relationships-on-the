@@ -1,4 +1,3 @@
-# Different Types of Conflict on Construction Sites
 
 Conflict is a common occurrence in construction projects and can arise from various sources such as schedule delays, budget constraints, design changes, or differing stakeholder interests. This chapter provides an overview of conflict in construction projects and different types of conflict that can arise on construction sites.
 

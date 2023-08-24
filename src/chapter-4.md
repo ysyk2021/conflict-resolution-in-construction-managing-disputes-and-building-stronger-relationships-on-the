@@ -1,5 +1,3 @@
-Chapter 4: Managing Conflict during Construction Projects
-=========================================================
 
 Conflict is an inevitable part of construction projects, but it can be managed effectively through various conflict resolution techniques. This chapter will explore different strategies for managing conflict during construction projects, including identifying the source of conflict, engaging in collaborative problem-solving, and other techniques.
 
