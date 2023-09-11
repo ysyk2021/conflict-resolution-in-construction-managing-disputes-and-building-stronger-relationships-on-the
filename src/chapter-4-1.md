@@ -1,5 +1,4 @@
-Chapter: Techniques for Managing Conflict During Construction Projects
-======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore various techniques that can be employed to effectively manage conflict during construction projects. We recognize the importance of resolving disputes in a timely and constructive manner to enhance collaboration, maintain productivity, and build stronger relationships on the job site.
 
